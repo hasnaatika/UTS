@@ -1,0 +1,651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Dunia Fantasi",
+        "Alamat": "Jl. Lodan Timur No.7, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        "Waktu": "22 Oktober 2022",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/5a6c9351ed6570971e7d9db04ef6ea54a2af3747/DUFAN.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          106.83204402369307,
+          -6.123745251966795
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": " RS Dr.Oen Solo Baru",
+        "Alamat ": "Jalan Bahu Dlopo, Dusun II, Gedangan, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552",
+        "Waktu": "1 Maret 2025",
+        "Jejak Saya ": "https://raw.githubusercontent.com/hasnaatika/UTS/0a54c1d40e12c1df4c0e90f4e5810d6d8faeb4cf/RS%20DR.OEN.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.79804720910113,
+          -7.606259167915596
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Bandara Udara Yogyakarta International Airport",
+        "Alamat": "Area Kebun, Palihan, Kec. Temon, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55654",
+        "Waktu": "16 September 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/0a54c1d40e12c1df4c0e90f4e5810d6d8faeb4cf/YIA.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.06132346269806,
+          -7.897449139651641
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pasar Satwa dan Tanaman Hias Yogyakarta ",
+        "Alamat": "Pasar burung pasty Jl. Bantul km.1 no.141, yk, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "Waktu": "18 Januari 2025",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/0a54c1d40e12c1df4c0e90f4e5810d6d8faeb4cf/pasar%20hewan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35510927059318,
+          -7.825173177165254
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Candi Prambanan",
+        "Alamat": "Jl. Raya Solo - Yogyakarta No.16, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571",
+        "Waktu": "5 Oktober 2025",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/0a54c1d40e12c1df4c0e90f4e5810d6d8faeb4cf/prambanan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.49140576556539,
+          -7.752085574773858
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pantai Jungwok",
+        "Alamat": "Jl. Terminal Jungwok, Pendowo, Jepitu, Kec. Girisubo, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55883",
+        "Waktu": "3 Agustus 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/511fc06b22b5149b96aa1e6b3aaa02bc47a07fa6/Jungwok%20Blue%20Ocean.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.71217356658832,
+          -8.197987980884918
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi ": "Kampung Ketandan",
+        "Alamat": "6938+28M, Jl. Ketandan Kulon, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
+        "Waktu": "28 Juli 2024 ",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/511fc06b22b5149b96aa1e6b3aaa02bc47a07fa6/Kampoeng%20Ketandan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36530561956744,
+          -7.797430451080814
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Benteng Vredeburg",
+        "Alamat": "Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
+        "Waktu": "9 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/6255140c40f8096a57e4011ac2e0c4bd01f3d69f/Benteng%20Vredeburg.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36623807959131,
+          -7.7999553869970555
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Bunker Kaliadem",
+        "Alamat": "Kinarejo, Hargobinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55582",
+        "Waktu": "8 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/6255140c40f8096a57e4011ac2e0c4bd01f3d69f/Bunker%20Kaliadem.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44790828204117,
+          -7.582947978478671
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi ": "Pantai Parangtritis",
+        "Alamat": "Jl. Pantai Parangkusumo, Pantai, Parangtritis, Kec. Kretek, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55772",
+        "Waktu": "7 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/bfdd222f29dc8299b433857a7dfd623f2ef65717/Pantai%20Parangtritis.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33308308168262,
+          -8.025904966075743
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pasir Berbisik Gunung Bromo",
+        "Alamat": "Krajan I, Ngadas, Kec. Sukapura, Kabupaten Probolinggo, Jawa Timur 67254",
+        "Waktu": "31 Desember 2022",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/f147a14a7d81bca75ce3676c2bee26b87779682e/Bromo.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          112.99179036754356,
+          -8.03735317221603
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Kids Fun",
+        "Alamat": "5CCR+RG Sitimulyo, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "Waktu": "15 April 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/68603451dee20ee7e58728835be8693404d691bd/kidsfun.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44104761672247,
+          -7.828596263705776
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Indonesia POS Museum",
+        "Alamat": "Jl. Cilaki No.73, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "Waktu": "24 Desember 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/8570e734035cb7f66c73a61a661cc87a66ac6c22/Kantor%20Pos%20Pusat%20Indonesia%20Bandung.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61979836002195,
+          -6.9021029033876715
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "D'Castello",
+        "Alamat": "Ciater, Kec. Ciater, Kabupaten Subang, Jawa Barat",
+        "Waktu": "25 Desember 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/18ecf80219d2de05a52367c11958841ac75c6788/D'Castello.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          107.65744491141447,
+          -6.724825455264934
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Asrama UGM Ratnaningsih Kinanti",
+        "Alamat": "69PG+HVP, Jl, RT.12/RW.2, Kocoran, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "Waktu": "28 Agustus 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/5e7b55c9751a2aa81a424505560c70b603f9cbfe/ASRAMA%20KINANTI.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37727468687802,
+          -7.763468151889114
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi ": "Obelix Sea View",
+        "Alamat": "Area Hutan, Giricahyo, Kec. Purwosari, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55872",
+        "Waktu": "7 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/5e7b55c9751a2aa81a424505560c70b603f9cbfe/OBELIXSEAVIEW.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34707088369123,
+          -8.025207195863729
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Keraton Kanoman Kasepuhan Cirebon",
+        "Alamat": "Jl. Kasepuhan No.43, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114",
+        "Waktu": "24 Desember 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/5e7b55c9751a2aa81a424505560c70b603f9cbfe/Keraton%20Kasepuhan%20Cirebon.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          108.5673803437196,
+          -6.721853201563334
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Waduk Sermo",
+        "Alamat": "Sremo tengah rt: 63/23, Sremo Tengah, Hargowilis, Kec. Kokap, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55653",
+        "Waktu": "23 November 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/661c8b3d5f075aa234aae682f31a67dfa749ef8d/waduk%20sermo.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.10854766693973,
+          -7.852449327337538
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Tugu Pal Putih Jogja",
+        "Alamat": "Jl. Jend. Sudirman, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233",
+        "Waktu": "2 Mei 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/661c8b3d5f075aa234aae682f31a67dfa749ef8d/Tugu.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36705432071005,
+          -7.782885980218666
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": " Tiramisusu By Chocomory",
+        "Alamat": "Jl. Anggrek No.48, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114",
+        "Waktu": "24 Desember 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/661c8b3d5f075aa234aae682f31a67dfa749ef8d/Tiramisusu%20Bandung.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          107.62984994224172,
+          -6.911780228555628
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Firdaus Fatimah Zahra",
+        "Alamat": "Jl. Muntal, Mangunsari, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50227",
+        "Waktu": "26 Desember 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e90792627017c2dcc3b075ba462ef6fbd0b17e6c/firdaus%20fatimah%20zahra.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3830175943288,
+          -7.075021446013807
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pasar Gede Hardjonago Solo",
+        "Alamat": "Jl. Jend. Urip Sumoharjo, Sudiroprajan, Kec. Jebres, Kota Surakarta, Jawa Tengah 57129",
+        "Waktu": "28 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e90792627017c2dcc3b075ba462ef6fbd0b17e6c/pasar%20gede%20solo.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.83182485696358,
+          -7.569166508163647
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Gelanggang Inovasi dan Kreativitas UGM",
+        "Alamat": "69GG+7FR, Jl. Persatuan, Sendowo, Sinduadi, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "Waktu": "12 Desember 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e90792627017c2dcc3b075ba462ef6fbd0b17e6c/GIK%20UGM.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37603138961975,
+          -7.77365118678793
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pantai Wediombo",
+        "Alamat": "RP66+44Q Pantai Wediombo, Jepitu, Kec. Girisubo, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55883",
+        "Waktu": "14 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e90792627017c2dcc3b075ba462ef6fbd0b17e6c/pantai%20wedi%20ombo.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.70826850210904,
+          -8.183939851810123
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi ": "Floating Resto",
+        "Alamat": "Jl. Roro Jonggrang No.8, Beran Kidul, Tridadi, Kec. Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55511",
+        "Waktu": "6 Agustus 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e90792627017c2dcc3b075ba462ef6fbd0b17e6c/floating%20resto.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3570645924155,
+          -7.719882685682975
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "HeHa Sky View",
+        "Alamat": "Jl. Dlingo-Patuk No.2, Patuk, Bukit, Kec. Patuk, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55862",
+        "Waktu": "28 Desember 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/0d2a33310940da76d8bba9e3a26f280c1011a55b/heha%20sky%20view.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.47843976286072,
+          -7.848940927180266
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "RSI Hidayatullah",
+        "Alamat": "Jl. Veteran No.184, Pandeyan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55161",
+        "Waktu": "13  Januari 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/0d2a33310940da76d8bba9e3a26f280c1011a55b/RS%20Hidayatullah.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38769249576478,
+          -7.815056748008075
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Alun-Alun Pancasila Kebumen",
+        "Alamat": "Jl. Pahlawan, Kebumen, Bumirejo, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54311",
+        "Waktu": "1 Februari 2025",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/205fcbe047096f4e07c0fb4d94c32209ce556f10/alun%20alun%20kebumen.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          109.65178713621407,
+          -7.668703197361381
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pasar Kotagede",
+        "Alamat": "59CX+MW7, Jl. Mentaok Raya, Purbayan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173",
+        "Waktu": "12 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/805e302c7124c88a340d8a624e5f92fa59197e48/pasar%20kotagede.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39978453920082,
+          -7.828312119908844
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Pendopo Lawas Alun Alun Utara Yogyakarta",
+        "Alamat": "Jl. Alun-Alun Utara, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",
+        "Waktu": "28 Desember 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/805e302c7124c88a340d8a624e5f92fa59197e48/pendopo%20lawas.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36559785210528,
+          -7.80472459787687
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Saloka Theme Park",
+        "Alamat": "Jl. Fatmawati No.154, Gumuksari, Lopait, Kec. Tuntang, Kabupaten Semarang, Jawa Tengah 50773",
+        "Waktu": "9 Juli 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e8036b24c8b5d0a3e1156e3582c54f28e2b36805/saloka.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.45757272782618,
+          -7.280082414127563
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Kampoeng Kopi Banaran",
+        "Alamat": "Jl. Raya Bawen - Solo KM 1,5 Bawen, Gentong, Asinan, Kec. Bawen, Kabupaten Semarang, Jawa Tengah 50661",
+        "Waktu": "8 Juli 2023",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e8036b24c8b5d0a3e1156e3582c54f28e2b36805/kampung%20kopi%20banaran.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44158585258504,
+          -7.254690873509233
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Jawa Timur Park 3",
+        "Alamat": "Jl. Ir. Soekarno No.112, Beji, Kec. Junrejo, Kota Batu, Jawa Timur 65236",
+        "Waktu": "28 Desember 2022",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/e8036b24c8b5d0a3e1156e3582c54f28e2b36805/jatimpark3.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          112.553196043725,
+          -7.8980581241278
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Masjid Kampus UGM",
+        "Alamat": "Jl. Tevesia Bulaksumur No.1, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "Waktu": "11 September 2024",
+        "Jejak Sayaa": "https://raw.githubusercontent.com/hasnaatika/UTS/69bad1bc21bd56a34c2bde50707af7784c642406/MASKAM%20UGM.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38000680124253,
+          -7.773375693518943
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Wisdom Park",
+        "Alamat": "Unnamed Road, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "Waktu": "28 Juni 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/03e381e2dc7507f63e29004319f78918527901a1/wisdom%20park.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38099780599151,
+          -7.774509210837337
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Masjid Raya Sheikh Zayed",
+        "Alamat": "Jl. A. Yani No.121, Gilingan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57134",
+        "Waktu": "28 Juli 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/03e381e2dc7507f63e29004319f78918527901a1/wisdom%20park.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.82701714204768,
+          -7.554991330412264
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Stasiun Lempuyangan",
+        "Alamat": "Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211",
+        "Waktu": "25 April 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/03e381e2dc7507f63e29004319f78918527901a1/stasiun%20lempuyangan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37555994951964,
+          -7.790151027327738
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokasi": "Stasiun Solo Jebres",
+        "Alamat": "Jl. Jend. Urip Sumoharjo, Purwodiningratan, Kec. Jebres, Kota Surakarta, Jawa Tengah 57128",
+        "Waktu": "25 April 2024",
+        "Jejak Saya": "https://raw.githubusercontent.com/hasnaatika/UTS/03e381e2dc7507f63e29004319f78918527901a1/stasiun%20jebres.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.83950548489815,
+          -7.561989994814695
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    }
+  ]
+}
